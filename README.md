@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am khalil Hennara 
+
+🔭 I’m currently working on ... Stock Market Prediction
 
 <!--
 **khalil-Hennara/khalil-Hennara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
